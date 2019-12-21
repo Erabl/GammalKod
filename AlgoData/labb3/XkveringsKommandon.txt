@@ -1,0 +1,13 @@
+u1:
+gcc Searching1.c && ./a.out <input.txt>IO.txt
+
+u2:
+javac BinarySearchST.java
+time java FrequencyCounter 1 <Input2.txt 
+
+
+u3:
+javac FrequencyCounter2.java
+java  FrequencyCounter2 1 n k < Input2.txt
+
+u4:

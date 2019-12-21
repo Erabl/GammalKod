@@ -1,0 +1,31 @@
+package labb;
+
+import java.util.Scanner;
+
+public class TestförOU2_2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		System.out.println("Enter two integers to calculate their sum");
+		
+	      Scanner in = new Scanner(System.in);
+	     
+	    int  x = in.nextInt();
+	    int  y = in.nextInt();
+	    int  z = in.nextInt();  
+	      
+	     
+	      
+	     
+	      System.out.println("Sum of the integers = " + z);
+	      
+	double    Resultat=  Obligatoriskuppgift2.karlIngvar(3, 4);
+	      
+	      System.out.println(Resultat);
+	   }
+	
+
+}
+
+

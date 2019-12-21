@@ -1,0 +1,34 @@
+Part 1:
+
+uppg1
+
+DepthFirstPath.java
+//Input.txt och två noder
+uppg2
+
+BreadthFirstPaths.java
+//Input.txt och två noder
+
+uppg3
+DijkstraUndirectedSP
+//siff.txt pch två noder
+Part 2:
+
+uppg1
+
+DepthFirstDirectedPaths.java
+//behöver ett oviktat input i.e input.txt och två noder
+
+Uppg2
+
+DirectedCycle.java
+//input.txt
+
+uppg3
+
+Topological.java
+//TopologicalInput.txt
+
+
+resten är dependencies
+

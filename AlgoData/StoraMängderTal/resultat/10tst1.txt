@@ -1,0 +1,6 @@
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 10
+	at labbar.Sorting8.exch(Sorting8.java:105)
+	at labbar.Sorting8.partition(Sorting8.java:55)
+	at labbar.Sorting8.sort(Sorting8.java:26)
+	at labbar.Sorting8.sort(Sorting8.java:19)
+	at labbar.Sorting8.main(Sorting8.java:138)

@@ -1,0 +1,31 @@
+package labb;
+
+public class Obligatoriskuppgift2 {
+
+
+
+
+public static double bisektris(double b, double c, double alfa) 
+{
+
+	{
+		double p = 2 * b * c * Math.cos(alfa / 2);
+		double bis = p / (b + c);
+		return bis;
+	}
+
+}
+
+public static double karlIngvar ( double Karl, double Ingvar) {
+	
+	double Gustav = Karl + Ingvar;
+	return Gustav;
+	
+}
+
+public static double ingaLisa (double Karl, double Ingvar, double Gustav) {
+	
+	double Inger = Gustav +
+}
+}
+

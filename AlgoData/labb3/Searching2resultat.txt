@@ -1,0 +1,19 @@
+erablods@Eriks-LT:/mnt/c/Users/erabl/desktop/Algodata/labb3$ time java FrequencyCounter 1 < Input2.txt
+the 7577
+distinct = 10982
+words    = 141491
+
+real    0m0.923s
+user    0m1.688s
+sys     0m0.328s   //BST
+
+
+
+erablods@Eriks-LT:/mnt/c/Users/erabl/desktop/Algodata/labb3$ time java FrequencyCounter 1 < Input2.txt
+the 7577
+distinct = 10982
+words    = 141491
+
+real    0m0.877s
+user    0m1.672s
+sys     0m0.203s   //ST

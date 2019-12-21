@@ -1,0 +1,11 @@
+8- Arrays are easy and fast to access as they are navigated my indicies
+whereas they also have a set length and require memory and time if the 
+length of said array need adjustment
+Linked data strucres however feature a dynamic size however they are slower as
+as they take time to get through the list to the desired node.
+
+9.
+In case of large increases to the number of elements to the datastructure
+an array will take longer to add those elements as the array need to have its size extended
+and contents copied over a large number of times compared to the linked
+list would add or remove elements more efficiently and thus the difference may be found.

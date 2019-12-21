@@ -1,0 +1,32 @@
+erablods@Eriks-LT:/mnt/c/Users/erabl/desktop/Algodata/labb3$ time java FrequencyCounter 3 7 1 < Input2.txt
+the 7577
+time 15211300ns
+
+real    0m0.840s
+user    0m1.547s
+sys     0m0.344s
+erablods@Eriks-LT:/mnt/c/Users/erabl/desktop/Algodata/labb3$ time java RBBST 3 7 1 < Input2.txt
+the 7577
+time 14182000ns
+
+real    0m0.821s
+user    0m1.469s
+sys     0m0.250s
+erablods@Eriks-LT:/mnt/c/Users/erabl/desktop/Algodata/labb3$ time java FrequencyCounter 3 7 1 < Input2.txt
+the 7577
+time 14107100ns
+
+real    0m0.865s
+user    0m1.547s
+sys     0m0.375s
+erablods@Eriks-LT:/mnt/c/Users/erabl/desktop/Algodata/labb3$ time java RBBST 3 7 1 < Input2.txt
+the 7577
+time 13320600ns
+
+real    0m0.854s
+user    0m1.453s
+sys     0m0.359s
+
+
+
+//använder nanosekunder;

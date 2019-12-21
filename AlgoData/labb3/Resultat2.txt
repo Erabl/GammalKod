@@ -1,0 +1,14 @@
+erablods@Eriks-LT:/mnt/c/Users/erabl/desktop/Algodata/labb3$ time java FrequencyCounter 1 < Input2.txt
+the 7577
+time 8029400ns
+
+real    0m0.432s
+user    0m0.891s
+sys     0m0.125s     //BST
+erablods@Eriks-LT:/mnt/c/Users/erabl/desktop/Algodata/labb3$ time java FrequencyCounterB 1 < Input2.txt
+the 7577
+time 7102800ns
+
+real    0m0.698s
+user    0m1.047s
+sys     0m0.141s    //BinarySearchST

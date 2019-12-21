@@ -1,0 +1,45 @@
+1 000 000 qs					1 000 000 Ms								
+199ms					250ms							quicksort cutoff	
+155ms					250ms							c0	
+173ms					249ms							183	snitt 144.8
+182ms					211ms							161	
+160ms					208ms							95	
+138ms					223ms							185	
+snitt 167.83					snitt 231.83							100	
+													
+												c5	
+												166	snitt 128.4
+10 000 000 elmnt Qsort;					10 000 000 MS							158	
+1550ms					1983ms							82	
+1537ms					1669ms							75	
+1432ms					1661ms							161	
+1596ms					1675ms							c10	
+1687ms					1890ms							127	snitt 96.8
+snitt 1560.4					snitt 1775,6 							121	
+												78	
+100 000 000 qsort					100 000 000 msort							48	
+												110	
+												c15	
+												110	snitt 95.4
+												140	
+												67	
+												78	
+												82	
+												c20	
+												90	snitt 95.4
+												73	
+												120	
+												130	
+												64	
+												c25	
+												71	snitt 90.2
+												105	
+												70	
+												86	
+												119	
+												c30	
+												89	snitt 86.8
+												52	
+												37	
+												152	
+												104	

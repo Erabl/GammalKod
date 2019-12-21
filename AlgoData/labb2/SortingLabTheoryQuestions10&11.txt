@@ -1,0 +1,10 @@
+uppft10
+arrayen kommer att utföra 8 jämförelser och 2 byten
+
+
+uppgift11
+
+a)insertionsort kommer att vara snabbare då den utför färre jämförelser än selection sort
+b)insertionsort kommer vara snabbare då den utför färre jämförelser
+c)selection sort kommer att vara snabbare eftersom om arrayen är i omvänd ordning kommer 
+båda algoritmer att göra lika många jämförelser men selectionsort kommer att göra färre byten  

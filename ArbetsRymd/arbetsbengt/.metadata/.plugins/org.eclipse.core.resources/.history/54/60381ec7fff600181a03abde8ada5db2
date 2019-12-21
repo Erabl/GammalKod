@@ -1,0 +1,45 @@
+package labb;
+
+import java.util.Arrays;
+
+import java.util.Random;
+
+public class Ou_3 {
+
+	public static int[] mellanstationer(double[] a, double[][] b, double[] c) {
+
+		int n = new Random().nextInt();
+		int m = new Random().nextInt();
+		double[] a = new double[m];
+		double[][] b = new double[n][m];
+		double[] c = new double[n];
+
+		for (int i = 0; i < m; i++) {
+			a[i] = new Random().nextInt();
+			for (int l = 0; l < n; l++) {
+				b[i][l] = new Random().nextInt();
+			}
+		}
+		for (int i = 0; i < n; i++)
+			;
+		c[i] = new Random().nextInt();
+
+	}
+
+	public static double kortaste(int n, int m, double[] a, double[][] b, double[] c) {
+
+		double kort = a[0] + b[0][0] + c[0];
+		for (int i = 0; i < m; i++) {
+			for (int j = 0; j < n; j++) {
+				int kortastevägen = a[i] + b[i][j] + c[j];
+				System.out.println("avstånd mellan station" + i + "och station" + j + "är sträckan" + kortastevägen);
+if (kortastevägen<kort) {
+	
+	kortastevägen=kort;
+} 
+			}
+
+		}
+	}
+
+}

@@ -1,0 +1,13 @@
+package labb;
+
+import java.util.Random;
+
+public class Punkt {
+
+	public Punkt(String first, String mid, String last) {
+		Namn = first;
+		X = mid;
+		Y = last;
+
+	}
+}

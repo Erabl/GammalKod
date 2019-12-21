@@ -1,0 +1,6 @@
+erablods@Eriks-LT:/mnt/c/Users/erabl/desktop/Algodata/labb3$ java Feq7a 1 <input2.txt
+the 7577
+time 7349700ns
+erablods@Eriks-LT:/mnt/c/Users/erabl/desktop/Algodata/labb3$ java Freq7b 1 <input2.txt
+the 7577
+time 11314800ns

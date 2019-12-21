@@ -1,0 +1,64 @@
+package labb;
+
+import java.util.Scanner;
+
+public class TestförOU2_2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		System.out.println("Enter two integers to calculate their sum");
+
+		Scanner in = new Scanner(System.in);
+
+		double x = in.nextInt();
+		double y = in.nextInt();
+		double z = in.nextInt();
+
+		//System.out.println("Sum of the integers = ");
+
+		// double Resultat= Obligatoriskuppgift2.karlIngvar(3, 4);
+
+		// System.out.println(Resultat);
+	}
+
+	public static double bisektris(double b, double c, double alfa) {
+
+		{
+			double p = 2 * b * c * Math.cos(alfa / 2);
+			double bis = p / (b + c);
+			return bis;
+		}
+	}
+
+	public static double Area(double x, double y, double z) {
+
+		double Area = Math.sqrt((So(x, y, z))*(So(x, y, z)-x)*((So(x, y, z)-y)*((So(x, y, z)-z))));
+		return Area;
+		
+	}
+
+	public static double Omkrets(double x, double y, double z) {
+		double Omkrets = (x + y + z);
+		return Omkrets;
+	}
+
+	public static double So(double x, double y, double z) {
+		double So = (x + y + z) / 2;
+		return So;
+
+	}
+
+	public static double InnreCirkelRadie(double x, double y, double z) {
+		double InnreRadie = (2*(Area(x, y, z))/Omkrets(x,y,z));
+		return InnreRadie;
+		
+
+	}
+
+	public static double YttreCirkelRadie(double x, double y, double z) {
+		
+
+	}
+
+}

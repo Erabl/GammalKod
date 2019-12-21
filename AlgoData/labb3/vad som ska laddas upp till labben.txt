@@ -1,0 +1,27 @@
+uppgift 1
+searching1.c
+
+uppgift 2
+
+
+freequencycounter
+frequencycounterB
+resultat2
+
+
+uppgift 3
+frequencyCounter2.java
+
+uppgift4
+txtdokument plus RBBST och den andra namnet på det som kompilerades finns
+
+uppgift 5
+searching5.java
+
+uppgift 6
+searching6.java
+
+uppigt 7
+
+feq7a.java   //seperate chaining
+Freq7b.java  // linearhashing
